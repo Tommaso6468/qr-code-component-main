@@ -3,12 +3,10 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', Arial;
-    font-size: 15px;
-    font-weight: 800;
-    max-width: 1440px;
-    margin: 20vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #centerSquare {
