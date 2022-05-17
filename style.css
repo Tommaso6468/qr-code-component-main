@@ -6,7 +6,7 @@ body {
     font-size: 15px;
     font-weight: 800;
     max-width: 1440px;
-    margin: 10vh auto;
+    margin: 20vh;
     display: flex;
     justify-content: center;
 }
@@ -17,6 +17,7 @@ body {
     border-radius: 25px;
     padding: 15px;
     box-shadow: 0 1em 3em hsl(211, 14%, 66%);
+
 }
 
 #qrCode {
